@@ -1,0 +1,119 @@
+@media(max-width: 575.98px){
+    /* navbar */
+    .navbar{
+        position: static;
+    }
+    /* abou */
+    .about_inner h2{
+        font-size: 30px;
+    }
+    /* service */
+    .ser_head h2{
+        font-size: 30px;
+    }
+    /* portfolio */
+    .prort_head h2{
+        font-size: 30px;
+    }
+    .prort_btn{
+        padding: 5px;
+        font-size: 12px;
+    }
+    /* team */
+    .team_head h2{
+        font-size: 30px;  
+    }
+    /* care */
+    .care_head h2{
+        font-size: 30px; 
+    }
+    /* news */
+    .news_head h2{
+        font-size: 30px; 
+    }
+}
+@media (max-width:767.98px){
+        /* navbar */
+        .navbar{
+            position: static;
+        }
+        .about_inner h2{
+            font-size: 30px;
+        }
+        /* service */
+        .ser_head h2{
+            font-size: 30px;
+        }
+          /* portfolio */
+        .prort_head h2{
+        font-size: 30px;
+        }
+        .prort_btn{
+            padding: 5px;
+            font-size: 12px;
+        }
+        /* team */
+        .team_head h2{
+        font-size: 30px;  
+        }
+        /* care */
+        .care_head h2{
+        font-size: 30px; 
+        }
+            /* news */
+        .news_head h2{
+        font-size: 30px; 
+    }   
+}
+@media(max-width:991.98px){
+    /* navbar */
+    .navbar{
+        position: static;
+    }
+    .about_inner h2{
+        font-size: 30px;
+    }
+    /* nnnnn */
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent;
+    }
+    .navbar-toggler{
+        border: 2px solid #222;
+    }
+    .menu_bar ul{
+        text-align: center;
+    }
+    .nav_btn{
+        text-align: center;
+    }
+    .nav_btn a{
+        background-color: white;
+        color: black;
+    }
+    .nav_btn a:hover{
+        background-color: white;
+        color: black;
+    }
+    .banner_text h1 {
+        font-size: 35px;
+    }
+    .button_item {
+        padding: 10px 13px;
+    }
+    .about_inner h1{
+        font-size: 40px;
+    }
+}
+
+/* 
+@media(min-width:576px) and (max-width:767.98px){
+}
+
+@media(min-width:768px) and (max-width:991.98px){
+}
+
+@media(min-width:992px) and (max-width:1199.98px){  
+}
+
+@media(min-width:1200px) and (max-width:1399.98px){
+} */
